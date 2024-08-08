@@ -53,7 +53,7 @@ Para que as LLM sejam usadas, é necessária adicionar um arquivo `.env` e adici
     python main.py
     ```
 
-2. Siga as instruções na CLI para escolher um cliente (chatgpt/palm) e inserir sua pergunta.
+2. Siga as instruções na CLI para escolher um cliente (chatgpt/palm) e inserir sua pergunta (em Inglês).
 
 3. A aplicação exibirá as respostas e as emoções associadas, notificando sobre atualizações.
 
