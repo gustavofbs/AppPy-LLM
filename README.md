@@ -16,7 +16,7 @@ Esta é uma aplicação de linha de comando (CLI) para interagir com modelos de 
 
 - **`factory.py`**: Implementa o padrão Factory para criar instâncias de clientes de LLM.
 - **`commands.py`**: Implementa o padrão Command para encapsular a geração de respostas.
-- **`strategy.py`**: Define a estratégia de avaliação de emoções usando o padrão Strategy, com a biblioteca `transformers`
+- **`strategy.py`**: Define a estratégia de avaliação de emoções usando o padrão Strategy.
 - **`observer.py`**: Implementa o padrão Observer para notificar sobre atualizações de respostas e emoções.
 - **`main.py`**: Arquivo principal que executa a CLI e gerencia a interação com o usuário.
 
